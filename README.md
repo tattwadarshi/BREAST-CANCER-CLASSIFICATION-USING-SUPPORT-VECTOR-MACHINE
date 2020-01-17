@@ -21,7 +21,7 @@ Predicting if the cancer diagnosis is benign or malignant based on several obser
 Datasets are linearly separable using all 30 input features
 
 Number of Instances: 569\
-Class Distribution: 212 Malignant, 357 Benign\
+Class Distribution: 212 Malignant, 357 Benign
 
 ##### Target class:
 - Malignant
